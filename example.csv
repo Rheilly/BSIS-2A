@@ -1,0 +1,7 @@
+﻿age,income,gender,purchased
+32,NaN,male,1
+23,12323,female,1
+23,4423,NaN,0
+44,1345,female,NaN
+43,54523,NaN,1
+12,2312,female,1
